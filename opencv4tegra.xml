@@ -1,0 +1,16 @@
+<version>
+    2.4.10opencv4tegra
+</version>
+
+<headers>
+libopencv4tegra/usr/include/opencv2
+</headers>
+
+<libs>
+libopencv4tegra/usr/lib
+</libs>
+
+<include_paths>
+/usr/local/cuda/include
+libopencv4tegra/usr/include
+</include_paths>
