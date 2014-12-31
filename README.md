@@ -8,5 +8,4 @@ Notes
 
 This repository makes a few assumptions about the packages in question:
 
- * The GPU library versions aren't compared
  * The OCL library is not included in the comparison, because OpenCV4Tegra does not include it

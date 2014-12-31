@@ -65,6 +65,7 @@
 /usr/include/opencv2/flann/saving.h
 /usr/include/opencv2/flann/simplex_downhill.h
 /usr/include/opencv2/flann/timer.h
+/usr/include/opencv2/gpu
 /usr/include/opencv2/highgui/highgui_c.h
 /usr/include/opencv2/highgui/highgui.hpp
 /usr/include/opencv2/imgproc
@@ -127,6 +128,7 @@
 /usr/lib/arm-linux-gnueabihf/libopencv_core.so.2.4.8
 /usr/lib/arm-linux-gnueabihf/libopencv_features2d.so.2.4.8
 /usr/lib/arm-linux-gnueabihf/libopencv_flann.so.2.4.8
+/usr/lib/arm-linux-gnueabihf/libopencv_gpu.so.2.4.8
 /usr/lib/arm-linux-gnueabihf/libopencv_highgui.so.2.4.8
 /usr/lib/arm-linux-gnueabihf/libopencv_imgproc.so.2.4.8
 /usr/lib/arm-linux-gnueabihf/libopencv_legacy.so.2.4.8
@@ -143,4 +145,5 @@
 </libs>
 
 <include_paths>
+/usr/local/cuda/include
 </include_paths>
